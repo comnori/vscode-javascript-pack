@@ -1,0 +1,70 @@
+{
+  "name": "js-extension-pack",
+  "publisher": "comnori",
+  "displayName": "JS/TS AWESOME-SOHO Extension Pack",
+  "description": "Popular extensions for JS/TS development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "maintainers": [
+    {
+      "name": "Yongsik Yun",
+      "email": "comnori@gmail.com",
+      "web": "https://www.linkedin.com/in/yongsik-yun-36260344"
+    }
+  ],
+  "homepage": "https://github.com/comnori/vscode-javascript-pack",
+  "bugs": {
+    "url": "https://github.com/comnori/vscode-javascript-pack/issues",
+    "email": "comnori@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comnori/vscode-javascript-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "chrisbibby.hide-node-modules",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dotenv.dotenv-vscode",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree",
+    "fengzhu.css-module-intellisense",
+    "formulahendry.auto-rename-tag",
+    "liamhammett.inline-parameters",
+    "lokalise.i18n-ally",
+    "meganrogge.template-string-converter",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "SonarSource.sonarlint-vscode",
+    "usernamehw.errorlens"
+  ],
+  "scripts": {
+    "package": "vsce package --out ./build",
+    "publish": "vsce publish"
+  },
+  "funding": [
+    {
+      "type": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/comnori"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/comnori"
+    }
+  ]
+}
