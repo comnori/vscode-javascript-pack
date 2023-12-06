@@ -2,6 +2,9 @@
 
 Extension Pack for Javascript-AWESOME-SOHO is a collection of popular extensions that can help write, test and debug JS/TS applications in Visual Studio Code.
 
+[![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/comnori.js-awesome-soho-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=comnori.js-awesome-soho-extension-pack) [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/comnori.js-awesome-soho-extension-pack?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=comnori.js-awesome-soho-extension-pack) ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/comnori.js-awesome-soho-extension-pack?style=for-the-badge)
+ ![GitHub License](https://img.shields.io/github/license/comnori/vscode-javascript-pack?style=for-the-badge)
+
 ## Extensions Included
 
 By installing Extension Pack for JS/TS, the following extensions are installed:
