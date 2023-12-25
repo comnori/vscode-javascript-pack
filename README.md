@@ -56,7 +56,9 @@ By installing Extension Pack for JS/TS, the following extensions are installed:
 * [📦 Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   * Material Design Icons for Visual Studio Code
 * [📦 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-  * Improve highlighting of errors, warnings and other language diagnostics.
+  * Improve highlighting of errors, warnings and other language diagnostics.  
+* [📦 SemanticDiff](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff)
+  * Programming language aware diffs for Visual Studio Code.
 
 ## License
 
